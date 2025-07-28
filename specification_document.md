@@ -895,7 +895,7 @@ const loadTestScenarios = [
 
 **Automated Security Scanning:**
 - OWASP ZAP integration in CI/CD pipeline
-- Dependency vulnerability scanning with Snyk
+- Dependency vulnerability scanning (OWASP, Trivy, Synk, SonarCube)
 - Infrastructure security validation with AWS Config
 - API security testing with custom scripts
 - Payment data protection validation
@@ -919,7 +919,7 @@ const loadTestScenarios = [
 
 **Functional Test Scenarios:**
 - Complete payment flow from student lookup to receipt
-- Multi-fee allocation within single transaction
+- Multi-fee allocation within a single transaction
 - Payment gateway failover scenarios
 - SIMS integration failure handling
 - Reconciliation workflow testing
