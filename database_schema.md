@@ -1,4 +1,4 @@
-## 5. Database Design
+## Database Design
 
 ### 5.1 Write-Optimized DynamoDB Schema
 
